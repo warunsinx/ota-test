@@ -4,7 +4,7 @@
   "pub_date": "2025-11-04T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "https://raw.githubusercontent.com/warunsinx/ota-test/refs/heads/main/macos/Sheeta%20AI.app.tar.gz.sig",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGI2NUw0bEVRYUlWK05nSTlFSDU5eFdCRFd3WWZRVHZWeUlPZHdIemYvbmJRYTRrZFhJd1pic2hhM21FVGdSejlyQ1p6cXRBWDVtVUhsYy9KV3A5SlFSOXRhclNYYkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyMjY2MDQwCWZpbGU6U2hlZXRhIEFJLmFwcC50YXIuZ3oKTi9SNVloQ0hMcWN0emN4T1Y3djRNS21jd1BEbTZIVzVMZnFLOTFFUFBmWjFJOHBHWG9LSUN5TEwxOG5xckp2cUUyYTlEb2VjaktzdnlpV3lvMDRiQmc9PQo=",
       "url": "https://github.com/warunsinx/ota-test/raw/refs/heads/main/macos/Sheeta%20AI.app.tar.gz"
     }
   }
