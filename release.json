@@ -1,19 +1,11 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "notes": "Initial release",
   "pub_date": "2025-11-04",
   "platforms": {
-    "linux-x86_64": {
-      "signature": "",
-      "url": ""
-    },
-    "windows-x86_64": {
-      "signature": "",
-      "url": ""
-    },
     "darwin-x86_64": {
-      "signature": "",
-      "url": ""
+      "signature": "https://raw.githubusercontent.com/warunsinx/ota-test/refs/heads/main/macos/Sheeta%20AI.app.tar.gz.sig",
+      "url": "https://github.com/warunsinx/ota-test/raw/refs/heads/main/macos/Sheeta%20AI.app.tar.gz"
     }
   }
 }
